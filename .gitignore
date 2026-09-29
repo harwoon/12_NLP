@@ -1,2 +1,4 @@
-venv
-venv310
+venv/
+venv_*/
+fasttext.bin
+tokenized_data.txt
