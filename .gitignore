@@ -2,3 +2,4 @@ venv/
 venv_*/
 fasttext.bin
 tokenized_data.txt
+data/household_power_consumption.txt
